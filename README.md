@@ -1,51 +1,44 @@
 # 🚀 Portfolio Website Template
 
-A modern and responsive **portfolio website** built using **React**, **Tailwind CSS**, and **TypeAnimation**. This template is perfect for showcasing your skills, projects, and contact information in a clean and interactive layout. It supports both **light and dark mode** for enhanced user experience.
+A modern and responsive **portfolio website** built using **React**, **Tailwind CSS**, and **TypeAnimation**. This template is ideal for showcasing your skills, projects, and contact details in a clean, professional layout. It supports both **light** and **dark** modes for a dynamic user experience.
 
 ---
 
 ## 🌟 Features
 
-- ✅ **Responsive Design** – Mobile-first layout for all screen sizes.
-- 🌙 **Dark/Light Mode** – Toggle theme with smooth transitions.
-- 🎯 **Dynamic Animations** – Includes typing effects and fade-in transitions.
-- 🖱️ **Interactive UI** – Hover effects, glowing icons, and animated buttons.
-- 📁 **Modular Components** – Easy to manage and update.
+- ✅ **Responsive Design** – Works perfectly across mobile, tablet, and desktop.
+- 🌗 **Dark/Light Mode** – Toggle between themes with smooth transitions.
+- 💬 **Typing Animations** – Engage users with dynamic text effects.
+- 🎥 **Project Showcases** – Embed videos, demo links, and GitHub repos.
+- 🎯 **Interactive UI** – Hover animations, glowing icons, and dynamic buttons.
+- 🧩 **Modular Components** – Clean folder structure and easily customizable components.
 
-### 🧩 Included Sections
+---
 
-- **Home** – Introduction, skills, social links, and CV download.
-- **About** – Education, background, stats, and image.
-- **Projects** – Grid-based showcase with videos, descriptions, and links.
-- **Skills and Expertise** – List of technical skills.
-- **Contact** – Customizable contact form or info.
+## 🧩 Included Sections
+
+- **Home** – Brief intro, social media icons, skill badges, and downloadable CV.
+- **About** – Your background, education, and a toggleable "Read More" section.
+- **Projects** – Grid layout of projects with titles, descriptions, tech used, and video/demo links.
+- **Skills and Expertise** – List your tech stack and tools.
+- **Contact** – Display your contact details or a form.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **React** – Component-based frontend library.
-- **Tailwind CSS** – Utility-first CSS framework.
-- **TypeAnimation** – Typing animations for hero section.
-- **FontAwesome** – Icons for social links and UI elements.
-- **JavaScript (ES6+)** – Interactive logic.
+- **React** – Frontend library for component-based UI.
+- **Tailwind CSS** – Utility-first CSS framework for rapid styling.
+- **TypeAnimation** – Animated typing text effects.
+- **FontAwesome** – Icon library for social media and UI icons.
+- **JavaScript (ES6+)** – For interactivity and logic.
 
 ---
 
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/Rathanak-Phan/portfolio-template.git
 cd portfolio-template
-
-```
-
-##📬 Contact
-For feedback, collaboration, or questions, feel free to reach out:
-
-Email: rathanak.phan@example.com
-
-GitHub: Rathanak-Phan
-
-LinkedIn: Your LinkedIn Profile
