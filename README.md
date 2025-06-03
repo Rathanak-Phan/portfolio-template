@@ -36,5 +36,5 @@ A modern and responsive **portfolio website** built using **React**, **Tailwind 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/username/portfolio-template.git
+git clone [https://github.com/username/portfolio-template](https://github.com/Rathanak-Phan/portfolio-template).git
 cd portfolio-template
