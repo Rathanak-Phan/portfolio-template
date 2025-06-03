@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Add this to your global CSS file */
+/* Swiper Container */
+.swiper-container {
+    overflow: hidden;
+    backface-visibility: hidden; /* Prevent flickering */
+}
+  
+  /* Swiper Slide */
+  .swiper-slide {
+    will-change: transform; /* Optimize rendering performance */
+    transition: transform 0.5s ease, opacity 0.5s ease;
+    backface-visibility: hidden; /* Prevent flickering */
+}
+  
+  /* Hover Effect */
+  .swiper-slide:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+}
