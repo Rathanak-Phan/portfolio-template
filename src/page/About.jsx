@@ -22,19 +22,19 @@ const About = () => {
           {/* Description Section */}
           <div className="w-full lg:w-3/4 h-auto text-left bg-white dark:bg-gray-900 rounded-xl shadow-lg p-3 md:p-8 transition-transform transform hover:scale-101 md:hover:scale-102 hover:shadow-2xl duration-300">
             <h2 className="text-4xl font-bold mb-4 text-blue-600 dark:text-blue-400">
-              Hello, I'm a student<span className="text-blue-800 dark:text-blue-300"> ITE</span>
+              Hello, I'm a student<span className="text-blue-800 dark:text-blue-300"> ....</span>
             </h2>
             <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-300 mt-2">
-              University: <span className="text-blue-600 dark:text-blue-300">Royal University of Phnom Penh</span>
+              University: <span className="text-blue-600 dark:text-blue-300">.................................</span>
             </h3>
             <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-300 mt-2">
-              Major: <span className="text-blue-600 dark:text-blue-300">Information Technology Engineering</span>
+              Major: <span className="text-blue-600 dark:text-blue-300">.......................................</span>
             </h3>
             <h3 className="text-lg font-semibold text-gray-800 dark:text-gray-300 mt-2">
-              Year: <span className="text-blue-600 dark:text-blue-300">2nd Year</span>
+              Year: <span className="text-blue-600 dark:text-blue-300">..........</span>
             </h3>
             <p className="text-lg text-gray-800 dark:text-gray-300 leading-relaxed mt-4">
-              I am a passionate and dedicated IT engineering student at the Royal University of Phnom Penh, currently in my second year of study. My academic focus includes software development, web technologies, and cybersecurity. I am eager to expand my knowledge in full-stack development, API integration, and web performance optimization.
+              I am a passionate and dedicated IT engineering student at the .............................., currently in my second year of study. My academic focus includes software development, web technologies, and cybersecurity. I am eager to expand my knowledge in full-stack development, API integration, and web performance optimization.
               {!isExpanded && (
                 <span
                   onClick={toggleExpand}
